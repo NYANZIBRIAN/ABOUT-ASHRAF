@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/issues</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/pulls</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/projects?query=is%3Aopen</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/security</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/blob/main/COOL.txt</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/releases</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/compare</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/caches</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169334192</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169326460</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169039133</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3165308918</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels?sort=name-asc</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels?sort=name-desc</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels?sort=count-desc</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels?sort=count-asc</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels/bug</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels/documentation</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels/duplicate</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels/enhancement</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels/good%20first%20issue</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels/help%20wanted</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels/invalid</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels/question</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/labels/wontfix</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?state=open</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?state=closed</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169334192/job/8664615958</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169334192/job/8664617979</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169334192/job/8664617947</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169334192/usage</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/commit/ff6d6f88a6e974c18e989596417fedcec310c846</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169326460/job/8664598898</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169326460/job/8664601383</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169326460/job/8664601333</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169326460/usage</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169039133/job/8664007336</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169039133/job/8664010911</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169039133/job/8664010957</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3169039133/usage</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/commit/b2110097d7147d49a0852d12838f2355e71b09d3</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3165308918/job/8656370481</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3165308918/job/8656374861</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3165308918/job/8656374924</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/actions/runs/3165308918/usage</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/commit/599567dfb67ee7905f6227b2475b6051e0697a15</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/NYANZIBRIAN/ALLAH-AKBAR/commit/a7b60067d606de79bf381685b5bc10d9bab805dd</loc>
+  <lastmod>2023-09-19T06:54:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
